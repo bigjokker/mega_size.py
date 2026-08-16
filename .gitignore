@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.part
+*.spec
+build/
+dist/
+run_thorough_tests.py
+
